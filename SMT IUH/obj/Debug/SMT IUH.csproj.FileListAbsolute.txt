@@ -1,0 +1,967 @@
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe.config
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SMT IUH.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.exe
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\ThridLibray.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\CLIDelegate.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+G:\Projects 2022\C#\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.CopyComplete
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronXL.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Buffers.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Memory.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.dll
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronXL.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\IronXL.dll.config
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Buffers.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Memory.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Projects 2022\C#\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.xml
+E:\DOWLOAD\SMT-PRO\28112024smt\SMT IUH\SMT IUH\bin\Debug\CLIDelegate.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe.config
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.exe
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SMT IUH.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\CLIDelegate.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\IronXL.dll.config
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Buffers.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Drawing.Common.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Memory.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Permissions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Text.Json.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\bin\Debug\System.ValueTuple.xml
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.exe
+B:\DoAn\CODO\28112024smt\SMT IUH\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Emgu.CV.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Drawing.Common.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT NEW\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Emgu.CV.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Drawing.Common.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\smt\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll.config
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.xml
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\DOWLOAD\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\cvextern.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\libusb-1.0.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\opencv_videoio_ffmpeg490.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\concrt140.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_1.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_2.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_atomic_wait.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_codecvt_ids.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\Debug\vcruntime140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\cvextern.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\libusb-1.0.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\opencv_videoio_ffmpeg490.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\concrt140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_1.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_2.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_atomic_wait.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_codecvt_ids.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\vcruntime140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\cvextern.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\libusb-1.0.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\opencv_videoio_ffmpeg490.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\concrt140.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_1.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_2.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_atomic_wait.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\msvcp140_codecvt_ids.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\vcruntime140.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\IronXL.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Memory.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+E:\SMT\llll1012025\SMT19-12\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SMT IUH.exe.config
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SMT IUH.exe
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SMT IUH.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Emgu.CV.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Emgu.CV.Bitmap.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\cvextern.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\libusb-1.0.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\opencv_videoio_ffmpeg490.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\concrt140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\msvcp140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\msvcp140_1.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\msvcp140_2.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\msvcp140_atomic_wait.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\msvcp140_codecvt_ids.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\vcruntime140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Abstractions.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Logger.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Shared.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronSoftware.Drawing.Common.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\IronXL.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SixLabors.Fonts.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Buffers.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Drawing.Common.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Drawing.Common.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Memory.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Numerics.Vectors.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Security.AccessControl.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Security.Permissions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Security.Principal.Windows.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Text.Encodings.Web.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Text.Json.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.ValueTuple.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\CLIDelegate.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.AssemblyReference.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.ResolveComReference.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT_IUH.Form1.resources
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT_IUH.Properties.Resources.resources
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.GenerateResource.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.Up2Date
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.exe
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Emgu.CV.UI.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Collections.Immutable.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Formats.Nrbf.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Reflection.Metadata.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\Debug\System.Resources.Extensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.csproj.SuggestedBindingRedirects.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\Debug\SMT IUH.exe.config

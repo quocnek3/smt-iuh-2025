@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\smt iuh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|solutionrelative:smt iuh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SMT IUH||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\smt iuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|solutionrelative:smt iuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|d:\\t\u00E0i li\u1EC7u meca\\code m\u1EDBi\\18122024\\smt iuh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|solutionrelative:smt iuh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\smt iuh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|solutionrelative:smt iuh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2023C21-8042-43E5-A19E-B3310ED417F0}|SMT IUH\\SMT IUH.csproj|d:\\t\u00E0i li\u1EC7u meca\\code m\u1EDBi\\18122024\\smt iuh\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SMT IUH\\Form1.Designer.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.Designer.cs",
+              "RelativeToolTip": "SMT IUH\\Form1.Designer.cs",
+              "ViewState": "AgIAADIEAAAAAAAAAAAowGEEAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:31:42.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.cs",
+              "RelativeDocumentMoniker": "SMT IUH\\Form1.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.cs",
+              "RelativeToolTip": "SMT IUH\\Form1.cs",
+              "ViewState": "AgIAAGgDAAAAAAAAAAAkwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:37:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMT IUH",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\SMT IUH.csproj",
+              "RelativeDocumentMoniker": "SMT IUH\\SMT IUH.csproj",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\SMT IUH.csproj",
+              "RelativeToolTip": "SMT IUH\\SMT IUH.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-27T10:10:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Program.cs",
+              "RelativeDocumentMoniker": "SMT IUH\\Program.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Program.cs",
+              "RelativeToolTip": "SMT IUH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:44:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.cs",
+              "RelativeDocumentMoniker": "SMT IUH\\Form1.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u meca\\Code m\u1EDBi\\18122024\\SMT IUH\\Form1.cs [Design]",
+              "RelativeToolTip": "SMT IUH\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:21:52.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

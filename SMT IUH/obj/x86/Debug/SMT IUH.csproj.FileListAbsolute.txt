@@ -1,0 +1,200 @@
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe.config
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\BitMiracle.LibTiff.NET.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.Bitmap.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\cvextern.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\libusb-1.0.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\opencv_videoio_ffmpeg490.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\concrt140.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_1.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_2.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_atomic_wait.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_codecvt_ids.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\vcruntime140.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronXL.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.Fonts.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Buffers.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.pdb
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Memory.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.AccessControl.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.Permissions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.Principal.Windows.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Encodings.Web.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Json.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.ValueTuple.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Form1.resources
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Properties.Resources.resources
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.Up2Date
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.exe
+E:\SMT\llll\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe.config
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SMT IUH.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\BitMiracle.LibTiff.NET.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.Bitmap.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\cvextern.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\libusb-1.0.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\opencv_videoio_ffmpeg490.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\concrt140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_1.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_2.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_atomic_wait.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\msvcp140_codecvt_ids.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\vcruntime140.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\IronXL.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.Fonts.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Buffers.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.pdb
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Memory.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.AccessControl.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.Permissions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Security.Principal.Windows.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Encodings.Web.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Text.Json.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\bin\x86\Debug\System.ValueTuple.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.AssemblyReference.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.ResolveComReference.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Form1.resources
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Properties.Resources.resources
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.GenerateResource.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.Up2Date
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.exe
+E:\SMT\llll27122024\SMT19-12\18122024\SMT IUH\obj\x86\Debug\SMT IUH.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe.config
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SMT IUH.exe
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SMT IUH.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\BitMiracle.LibTiff.NET.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.Bitmap.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\cvextern.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\libusb-1.0.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\opencv_videoio_ffmpeg490.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Emgu.CV.UI.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\concrt140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\msvcp140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\msvcp140_1.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\msvcp140_2.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\msvcp140_atomic_wait.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\msvcp140_codecvt_ids.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\vcruntime140.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Abstractions.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Logger.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Shared.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronSoftware.Drawing.Common.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\IronXL.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Bcl.HashCode.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SixLabors.Fonts.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\SixLabors.ImageSharp.Drawing.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Buffers.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Collections.Immutable.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Drawing.Common.pdb
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Formats.Nrbf.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Memory.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Resources.Extensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Security.AccessControl.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Security.Permissions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Security.Principal.Windows.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Text.Json.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\bin\x86\Debug\System.ValueTuple.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.AssemblyReference.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.SuggestedBindingRedirects.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.exe.config
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.ResolveComReference.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Form1.resources
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT_IUH.Properties.Resources.resources
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.GenerateResource.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.CoreCompileInputs.cache
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.csproj.Up2Date
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.exe
+D:\tài liệu meca\Code mới\18122024\SMT IUH\obj\x86\Debug\SMT IUH.pdb

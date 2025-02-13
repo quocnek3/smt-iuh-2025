@@ -1,0 +1,25 @@
+vi_tri_feeder_1_x:23.5
+vi_tri_feeder_1_y:245.3
+vi_tri_feeder_1_z:46.5
+vi_tri_feeder_2_x:25.3
+vi_tri_feeder_2_y:170.6
+vi_tri_feeder_2_z:47.5
+vi_tri_feeder_3_x:24.4
+vi_tri_feeder_3_y:91.4
+vi_tri_feeder_3_z:49
+vi_tri_feeder_4_x:23.4
+vi_tri_feeder_4_y:15.8
+vi_tri_feeder_4_z:47
+vi_tri_camera_x:10
+vi_tri_camera_y:350.8
+vi_tri_camera_z: 10
+vi_tri_goc_pcb_x:155.4
+vi_tri_goc_pcb_y:246.5
+vi_tri_goc_pcb_z: 43
+khoang_cach_dau_bom_keo_x: 48.6
+khoang_cach_dau_bom_keo_y:  0.3
+khoang_cach_dau_bom_keo_z:  -5
+goc_xoay_chip_1: 0
+goc_xoay_chip_2: 0
+goc_xoay_chip_3: 0
+goc_xoay_chip_4: 90

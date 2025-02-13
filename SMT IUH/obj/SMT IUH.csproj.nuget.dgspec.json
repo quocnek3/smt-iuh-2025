@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tài liệu meca\\Code mới\\18122024\\SMT IUH\\SMT IUH.csproj": {}
+  },
+  "projects": {
+    "D:\\tài liệu meca\\Code mới\\18122024\\SMT IUH\\SMT IUH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tài liệu meca\\Code mới\\18122024\\SMT IUH\\SMT IUH.csproj",
+        "projectName": "SMT IUH",
+        "projectPath": "D:\\tài liệu meca\\Code mới\\18122024\\SMT IUH\\SMT IUH.csproj",
+        "packagesPath": "C:\\Users\\Quoc\\.nuget\\packages\\",
+        "outputPath": "D:\\tài liệu meca\\Code mới\\18122024\\SMT IUH\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.10.0.5680, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.runtime.windows.msvc.rt.x64": {
+              "target": "Package",
+              "version": "[19.39.33523, )"
+            },
+            "Emgu.runtime.windows.msvc.rt.x86": {
+              "target": "Package",
+              "version": "[19.39.33523, )"
+            },
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2024.9.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
